@@ -1,0 +1,7 @@
+{
+	"name": "thirdweb-auth-react-go",
+	"repository": "https://github.com/thirdweb-example/thirdweb-auth-express.git",
+	"license": "Apache-2.0",
+	"scripts": {
+	}
+}
